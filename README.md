@@ -6,8 +6,7 @@
 
 ###
 
-<h1 align="center">Привет <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="60" alt="wave gifs"  />
-  <img width="20"/>Меня зовут Алина!</h1>
+<h1 align="center">Привет👋 Меня зовут Алина!</h1>
 
 ###
 
